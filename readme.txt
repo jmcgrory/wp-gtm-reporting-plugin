@@ -1,3 +1,5 @@
+# WP Readme
+
 === PLX Lead Reporting ===
 Contributors: plxjmcgrory,mattstone-plx
 Tags: gtm,google tag manager, tag manager,cf7,contact form 7,json
